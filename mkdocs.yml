@@ -1,0 +1,34 @@
+site_name: TONY Gabriel | IoT & Software Developer
+#site_url: https://tonygabriel-10.github.io/santech-portfolio
+site_description: Portfolio of TONY Gabriel – IoT & Software Developer
+
+theme:
+  name: material
+  palette:
+    scheme: dark blue
+    primary: teal
+    accent: cyan
+  features:
+    - navigation.tabs
+    - navigation.top
+    - content.code.copy
+  icon:
+    logo: material/chip
+
+nav:
+  - Home: index.md
+  - Projects: projects.md
+  - Activity: activity.md
+  - Contact: contact.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.highlight
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
