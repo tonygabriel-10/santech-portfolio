@@ -43,13 +43,24 @@ A day-by-day log of my internship journey building IoT and software projects.
 ### Day 5 – Portfolio + Presentation
 - Compiled portfolio summary
 - Delivered final internship presentation
-## WEEK 3
 
-### DAY 1 - RFID CONNECTION
- - connecting rfid with buzzer
- - creating database 
+-----
+
+## Week 3
+
+### Day 1 – RFID Connection
+- Connecting RFID with buzzer
+- Creating database
+
+### Day 2 – Off
+
+### Day 3 – GitHub Installation
+- Installed Git on PC
+- Pushed portfolio to GitHub
+- Displayed portfolio on GitHub
+
+### Day 4 – GitHub Desktop
+- Installed GitHub Desktop
+- Published projects on GitHub via Desktop
 
 ---
-
-!!! note "Ongoing"
-    This internship log is updated regularly as the journey continues.
