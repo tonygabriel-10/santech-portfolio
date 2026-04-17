@@ -5,8 +5,8 @@ site_description: Portfolio of TONY Gabriel – IoT & Software Developer
 theme:
   name: material
   palette:
-    scheme: dark blue
-    primary: teal
+    scheme: slate   # ✅ this is the black/dark theme
+    primary: black
     accent: cyan
   features:
     - navigation.tabs
